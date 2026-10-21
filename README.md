@@ -4,7 +4,7 @@ An interactive Power BI dashboard I built at work to give leadership a clear vie
 
 > **Note:** The underlying data is company HR data, so it is not included in this repository. This repo contains screenshots and documentation only.
 
-![HR Metrics Dashboard](dashboard(2).png)
+![HR Metrics Dashboard](Dashboard(2).png)
 
 ## What it tracks
 
